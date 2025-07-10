@@ -6,5 +6,5 @@ This repository contains mini practice projects built in C++ and Python to impro
 
 | Project            | Language | Description              |
 |--------------------|----------|--------------------------|
-| [Digital Clock](Digital_Clock) | C++      | A simple console-based digital clock. |
+| [Digital Clock](Digital-Clock) | C++      | A simple console-based digital clock. |
 | More coming soon... |          |                          |
