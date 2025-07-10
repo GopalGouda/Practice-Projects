@@ -1,0 +1,106 @@
+# ========================
+# C++ Ignore Rules
+# ========================
+
+# Compiled binary files
+*.out
+*.o
+*.obj
+*.exe
+
+# Build artifacts
+/build/
+bin/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup and swap files
+*~
+*.bak
+*.swp
+
+# macOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# ========================
+# Python Ignore Rules
+# ========================
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python-specific backup
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Package management
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Environment files
+.env
+.env.*
+
+# VS Code Python settings
+.vscode/settings.json
+.vscode/launch.json
+
+# ========================
+# General
+# ========================
+
+# Temporary files
+*.tmp
